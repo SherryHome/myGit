@@ -3,3 +3,4 @@ git is a free software under the gpl.
 Git has a mutable index called stage.
 Git tracks changes...
 create a new branch
+this is merge
